@@ -11,6 +11,12 @@ Em construção
   <img alt="Fred-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img alt="Fred-NODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Fred-EXPRESS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img alt="Fred-SEQUELIZE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  <img alt="Fred-JWT" height="50" width="50" src="https://jwt.io/img/pic_logo.svg" />
+  <img alt="Fred-JOI" height="50" width="50" src="https://joi.dev/img/joiTransparent.png" />
+  <img alt="Fred-MOCHA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img alt="Fred-CHAI" height="50" width="50" src="https://www.svgrepo.com/show/353546/chai.svg" />
+  <img alt="Fred-SINON" height="50" width="50" src="https://sinonjs.org/assets/images/logo.png">
 </div>
 
 <br />
