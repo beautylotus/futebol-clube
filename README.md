@@ -1,6 +1,7 @@
 # :computer: Projeto Trybers Futebol Clube :computer:
 
-Em construção
+O objetivo foi alimentar o front-end de uma aplicação com o back-end em Typescript que envolve o gerenciamento de partidas e classificações de futebol.
+O projeto foi dockerizado e utilizei tudo que aprendi durante o módulo como o MSC, Sequelize, POO, SOLID e testes com Mocha, Chai e Sinon.
 
 <br />
 
